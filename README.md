@@ -12,3 +12,6 @@
  - Functions include farming, crafting, and longer teleportation, but they all require energy and resources
  - The longer the pod is from the mothership, the more dangerous it is (more robots)
  - Rarer resources are far from the motherships
+ - Most cats will be in hibernation at first
+ - Need more food and resources to have more cats in action
+ - Different cats can have different trait and small stories
